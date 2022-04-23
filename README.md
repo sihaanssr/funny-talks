@@ -15,9 +15,11 @@ I welcome all contributions to the repo. Open a pull request to this repo or ope
   - [Programming languages](#programming-languages)
     - [JavaScript](#javascript)
     - [Python](#python)
+    - [SQL](#sql)
   - [Topics](#topics)
     - [Security](#security)
     - [Programming Styles](#programming-styles)
+    - [Cloud](#cloud)
     - [Art](#art)
     - [Miscellaneous](#miscellaneous)
 
@@ -38,6 +40,7 @@ I welcome all contributions to the repo. Open a pull request to this repo or ope
 ### SQL
 * [SQLite and Go](https://www.youtube.com/watch?v=RqubKSF3wig) by **David Crawshaw** (2019)
 <br></br>
+
 ## Topics
 <hr></hr>
 
@@ -46,6 +49,9 @@ I welcome all contributions to the repo. Open a pull request to this repo or ope
 
 ### Programming Styles
 * [Agile is Dead](https://www.youtube.com/watch?v=a-BOSpxYJ9M) by **Dave Thomas** (2015)
+
+### Cloud 
+* [The Myth of Multi-Cloud](https://www.youtube.com/watch?v=r6OFCJ_gux0) by **Corey Quinn** (2019)
 
 ### Art
 * [The Art of Code](https://www.youtube.com/watch?v=6avJHaC3C2U) by **Dylan Beattie** (2020) 

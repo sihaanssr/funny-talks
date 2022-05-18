@@ -29,6 +29,7 @@ I welcome all contributions to the repo. Open a pull request to this repo or ope
 ### JavaScript
 * [Rethinking Reactivity](https://www.youtube.com/watch?v=AdNJ3fydeao) by **Rich Harris** (2019)
 * [The Birth and Death of JavaScript](https://www.destroyallsoftware.com/talks/the-birth-and-death-of-javascript) by **Gary Bernhardt** (2014)
+* [Javascript Considered...Useful](https://youtu.be/ylF7ZR-b7Rk) by **Jenn Schiffer** (2019)
 <br></br>
 
 ### Python

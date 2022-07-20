@@ -19,6 +19,7 @@ I welcome all contributions to the repo. Open a pull request to this repo or ope
   - [Topics](#topics)
     - [Security](#security)
     - [Programming Styles](#programming-styles)
+    - [Architecture](#architecture)
     - [Cloud](#cloud)
     - [Art](#art)
     - [Miscellaneous](#miscellaneous)
@@ -50,6 +51,9 @@ I welcome all contributions to the repo. Open a pull request to this repo or ope
 
 ### Programming Styles
 * [Agile is Dead](https://www.youtube.com/watch?v=a-BOSpxYJ9M) by **Dave Thomas** (2015)
+  
+### Architecture
+* [Building Resilient Frontend Architecture](https://www.youtube.com/watch?v=TqfbAXCCVwE) by **Monica Lent** (2019)
 
 ### Cloud 
 * [The Myth of Multi-Cloud](https://www.youtube.com/watch?v=r6OFCJ_gux0) by **Corey Quinn** (2019)

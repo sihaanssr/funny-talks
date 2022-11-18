@@ -60,6 +60,7 @@ I welcome all contributions to the repo. Open a pull request to this repo or ope
 
 ### Art
 * [The Art of Code](https://www.youtube.com/watch?v=6avJHaC3C2U) by **Dylan Beattie** (2020) 
+* [Great Impractical Ideas in Computer Science: PowerPoint Programming](https://www.youtube.com/watch?v=_3loq22TxSc) by **Tom Wildehain** (2019) - Watch at your own risk
 
 ### Miscellaneous
 * [That Awesome Time I was sued for two Billion Dollars](https://www.youtube.com/watch?v=KSWqx8goqSY) by **Jason Scott** (2009)

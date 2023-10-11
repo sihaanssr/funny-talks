@@ -22,6 +22,7 @@ I welcome all contributions to the repo. Open a pull request to this repo or ope
     - [Architecture](#architecture)
     - [Cloud](#cloud)
     - [Art](#art)
+    - [The World and Software](#the-world-and-software)
     - [Miscellaneous](#miscellaneous)
 
 ## Programming languages
@@ -51,7 +52,7 @@ I welcome all contributions to the repo. Open a pull request to this repo or ope
 
 ### Programming Styles
 * [Agile is Dead](https://www.youtube.com/watch?v=a-BOSpxYJ9M) by **Dave Thomas** (2015)
-  
+* [Stop Writing Dead Programs](https://www.youtube.com/watch?v=8Ab3ArE8W3s) by **Jack Rusher** (2022) 
 ### Architecture
 * [Building Resilient Frontend Architecture](https://www.youtube.com/watch?v=TqfbAXCCVwE) by **Monica Lent** (2019)
 
@@ -61,6 +62,9 @@ I welcome all contributions to the repo. Open a pull request to this repo or ope
 ### Art
 * [The Art of Code](https://www.youtube.com/watch?v=6avJHaC3C2U) by **Dylan Beattie** (2020) 
 * [Great Impractical Ideas in Computer Science: PowerPoint Programming](https://www.youtube.com/watch?v=_3loq22TxSc) by **Tom Wildehain** (2019) - Watch at your own risk
+
+### The World and Software
+* [The Economics of Programming Languages](https://www.youtube.com/watch?v=XZ3w_jec1v8) by **Evan Czaplicki** (2023)
 
 ### Miscellaneous
 * [That Awesome Time I was sued for two Billion Dollars](https://www.youtube.com/watch?v=KSWqx8goqSY) by **Jason Scott** (2009)
